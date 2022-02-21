@@ -1,0 +1,11 @@
+.box {
+    margin-right: 95%;
+    padding: 8px 70px;
+    border: steelblue;
+    border-radius: 5%;
+    display: flex;
+    justify-content: space-between;
+    height: 5%;
+    width: 100%;
+    background-color: rgb(217, 224, 243);
+}
